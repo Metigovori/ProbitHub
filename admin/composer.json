@@ -1,0 +1,12 @@
+{
+    "require": {
+        "illuminate/database": "^10.18",
+        "joeyrush/better-dd": "^1.4",
+        "league/oauth2-client": "^2.7"
+    },
+    "autoload": {
+        "classmap": [
+            "Models"
+        ]
+    }
+}
